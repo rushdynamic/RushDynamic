@@ -2,5 +2,5 @@
 ### Gokul Syam
 - front-end, back-end, and everything in between.
 - currently working on: [Strife](https://github.com/RushDynamic/Strife), [strife-live](https://github.com/RushDynamic/strife-live)
-- more @ http://rushdynamic.com/
+- more @ http://rushdynamic.com/ (also WIP)
 
